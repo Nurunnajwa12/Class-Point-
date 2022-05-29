@@ -55,19 +55,29 @@ A	i) The program is able to run.	2
 	ii) Using an appropriate structure for the program (e.g. the code is properly indented, all
 the required header files are included, the main function is properly written, etc.).	1
 B	The definition of class Point
+
 i.	Data members
+
 ii.	Point(int,int)
+
 iii.	Point(const Point &)
+
 iv.	display():void
+
 v.	display(string):void
+
 vi.	operator+(Point):Point	
 
 C	The declaration and definition of friend function slope.	3
 D	Function main
 i.	Object 1 and object 2 creation
+
 ii.	Object 3 creation
+
 iii.	Coordinates display of the two objects without title
+
 iv.	Third coordinates display with title
+
 v.	Print the slope between two points	
 
 Total	30
